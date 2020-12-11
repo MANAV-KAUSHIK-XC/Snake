@@ -5,3 +5,6 @@ A '#' in the mapfile represents the wall, an 'a' represents the first position o
 You can denote empty spaces in the map by a ' '(space), however, some text editors omit trailing spaces, so I would recomment using any character other than '#', 'a' and 's' if you dont get the desired result.
 
 Idk about license and copyright, Do whatever you wanna do with this I won't sue you, I promise.
+
+
+gullible
